@@ -30,7 +30,7 @@ Learners are expected to spend between 3-4 hours on reading through, and complet
 |[Recap and Review - Self-learning lessons review 1](./review_1.md){ .md-button}||
 |[4. Scripts_and_variables](./4_shell_scripts_and_variables.md){ .md-button .md-button--primary }| Bash Variables and Writing Shell Scripts.|
 |[5. Automation](./5_loops_and_automation.md){ .md-button .md-button--primary }|Loops and Automation|
-|[Course Work 2 - Before the next class](./course_work_1.md){ .md-button}||
+|[Course Work 2 - Before the next class](./course_work_2.md){ .md-button}||
 |[Recap and Review - Self-learning lessons review 2](./review_1.md){ .md-button}||
 |[6. HPC Cluster at HMC](./6_introduction_to_o2_cluster.md){ .md-button .md-button--primary }|Introduction to the O2 cluster|
 |[7. Data Storage at O2](./7_data_storage_at_o2.md){ .md-button .md-button--primary }|File system and data storage at O2|

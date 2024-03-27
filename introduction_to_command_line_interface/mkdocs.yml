@@ -12,9 +12,9 @@ theme:
   name: material
   logo: Images/hbc.png
   favicon: Images/hbc.png
-   # 404 page
+   # template page
   static_templates:
-    - 404.html
+    - template.html
 
   palette:
 

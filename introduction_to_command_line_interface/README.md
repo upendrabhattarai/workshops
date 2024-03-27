@@ -1,14 +1,9 @@
-# Introduction to the command line interface (shell/bash/Unix/Linux)
+# Introduction to the command line interface
 
-| Audience | Computational skills required | Duration |
-:----------|:-------------|:----------|
-| Biologists | None | 3-session online workshop (~7.5 hours of trainer-led time)|
 
-### Description
+This is a one day workshop on Introduction to Command Line Interface. This workshop focuses on teaching basic skills to use the command line interface, specifically `bash`, amd no prior knowledge in command line is required. The lesson goes through navigating the file system, working with files, `for` loops, shell scripting, and positional parameters. This workshop is a prerequisite to a workshop on [RNA-seq analysis](https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/).
 
-This repository has teaching materials for a 1-day Introduction to shell workshop. This workshop focuses on teaching basic skills to use the command line interface, specifically `bash`, the lessons include `for` loops, shell scripting, positional parameters. This workshop is a prerequisite to a workshop on [RNA-seq analysis](https://hbctraining.github.io/Intro-to-rnaseq-hpc-O2/).
-
-**Note for Trainers:** Please note that the schedule linked below assumes that learners will spend between 3-4 hours on reading through, and completing exercises from selected lessons between classes. The online component of the workshop focuses on more exercises and discussion/Q & A.
+Learners are expected to spend between 3-4 hours on reading through, and completing exercises from selected lessons between classes. The online component of the workshop focuses on more exercises and discussion/Q & A.
 
 > These materials were developed for a trainer-led workshop, but are also amenable to self-guided learning.
 

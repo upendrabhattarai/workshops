@@ -23,12 +23,12 @@ theme:
     toggle:
       icon: material/brightness-auto
       name: Switch to light mode
-    primary: crimson
+    primary: #DC143C
 
   # Palette toggle for light mode
   - media: "(prefers-color-scheme: light)"
     scheme: default
-    primary: crimson
+    primary: #DC143C
     toggle:
       icon: material/brightness-7
       name: Switch to dark mode
@@ -39,7 +39,7 @@ theme:
     toggle:
       icon: material/brightness-4
       name: Switch to system preference
-    primary: crimson
+    primary: #DC143C
 
   
   features:

@@ -10,7 +10,7 @@ repo_name:   upendrabhattarai/workshops/introduction_to_command_line_interface
 
 theme:
   name: material
-  logo: Images/hbc.png
+  logo: theme_images/hbc_logo.png
   favicon: Images/hbc.png
    # template page
   static_templates:
